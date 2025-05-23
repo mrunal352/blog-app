@@ -15,9 +15,17 @@ Welcome! This is a Blog App built with MERN stack (MongoDB, Express, React, Node
 
 ## Screenshots
 
+## 📸 Project Screenshots
+
+### Screenshot 1  
 ![Screenshot 1](https://github.com/mrunal352/blog-app/blob/main/SC/Screenshot%202025-05-23%20145824.png?raw=true)
-![Screenshot 2](https://user-images.githubusercontent.com/67452985/172217368-76264e6e-8373-484d-9cd0-3af5920754b1.png)
-![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
+### Screenshot 2  
+![Screenshot 2](https://github.com/mrunal352/blog-app/blob/main/SC/Screenshot%202025-05-23%20145842.png?raw=true)
+### Screenshot 3  
+![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217368-76264e6e-8373-484d-9cd0-3af5920754b1.png)
+### Screenshot 4  
+![Screenshot 4](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
+
 
 ## How to Run
 
